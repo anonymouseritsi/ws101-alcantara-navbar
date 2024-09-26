@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/anonymouseritsi/ws101-alcantara-navbar/static/css/main.e06b22c2.css",
-    "main.js": "/anonymouseritsi/ws101-alcantara-navbar/static/js/main.ac4a3f25.js",
-    "index.html": "/anonymouseritsi/ws101-alcantara-navbar/index.html",
-    "main.e06b22c2.css.map": "/anonymouseritsi/ws101-alcantara-navbar/static/css/main.e06b22c2.css.map",
-    "main.ac4a3f25.js.map": "/anonymouseritsi/ws101-alcantara-navbar/static/js/main.ac4a3f25.js.map"
+    "main.css": "/ws101-alcantara-navbar/static/css/main.e06b22c2.css",
+    "main.js": "/ws101-alcantara-navbar/static/js/main.ac4a3f25.js",
+    "index.html": "/ws101-alcantara-navbar/index.html",
+    "main.e06b22c2.css.map": "/ws101-alcantara-navbar/static/css/main.e06b22c2.css.map",
+    "main.ac4a3f25.js.map": "/ws101-alcantara-navbar/static/js/main.ac4a3f25.js.map"
   },
   "entrypoints": [
     "static/css/main.e06b22c2.css",
